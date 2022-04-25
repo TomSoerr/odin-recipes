@@ -1,9 +1,20 @@
-# Mein „Recipes“ Projekt
-In diesem ersten Projekt von „The Odin Project“ erstelle ich eine einfache Webseite mit HTML.
-Es sind mehrere Rezepte mit Links verbunden.
-Viel gibt es hier zwar nicht zu sehen, aber hier ist eine [Live Preview](https://tomsoerr.github.io/odin-recipes/), 
-zu meinem nächsten [Projekt](https://github.com/TomSoerr/odin-landing-page).
+# My “Recipes” Project
+![preview gif](./media/prev.gif) 
+
+## Links
+- [Live Preview](https://tomsoerr.github.io/odin-recipes/)
+- Link to the [Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
+- See my next [Project](https://github.com/TomSoerr/odin-landing-page)
+
+## Description
+In this first project of “The Odin Project” I create a simple website with HTML.
+This project has:
+
+- a main page with links 
+- and three recipes.
+
+The pages are connected with the main page.
 
 
-
-Wichtig: Die Rezepte sind von veganerezepte.eu und dienen nur als Beispiel
+## Notes
+The recipes are from veganerezepte.eu and serve only as an example.
