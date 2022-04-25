@@ -3,6 +3,7 @@
 
 ## Description
 In this first project of “The Odin Project” I create a simple website with HTML.
+
 This project has:
 
 - a main page with links 
