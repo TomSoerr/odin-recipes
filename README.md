@@ -2,8 +2,7 @@
 ![preview gif](./media/prev.gif) 
 
 ## Description
-In this first project of “The Odin Project” I create a simple website with HTML.
-
+In this first project of “The Odin Project” I create a simple website with HTML. <br>
 This project has:
 
 - a main page with links 
