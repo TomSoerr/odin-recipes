@@ -11,6 +11,7 @@ This project has:
 The pages are connected with the main page.
 
 ## Links
+- [Imprint](https://tomsoerr.github.io/#/impressum)
 - [Live Preview](https://tomsoerr.github.io/odin-recipes/)
 - Link to the [Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 - See my next [Project](https://github.com/TomSoerr/odin-landing-page)
